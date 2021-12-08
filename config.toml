@@ -1,4 +1,4 @@
-baseURL = "https://lakikowolfe.netlify.app/"
+baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "L. Wolfe"
@@ -29,9 +29,9 @@ enableEmoji = true
     
 [params]
   orgName = ""
-  orgLocal = ""
-  description = ""
-  favicon = "/img/1F332_color.png"
+  orgLocal = "Seattle, WA"
+  description = "Thoughts and things by L. Wolfe"
+  favicon = "/img/favicon.ico"
   logo = "/img/1F332_color.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
@@ -71,7 +71,7 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "lakikwolfe/wolfes_blog"
+    repo_name = "lakikowolfe/wolfes_blog"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
@@ -89,14 +89,30 @@ enableEmoji = true
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/lakikowolfe"
+#  [[params.social]]
+#      icon      = "facebook-square" # icon name without the 'fa-'
+#      icon_pack = "fab"
+#      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+#  [[params.social]]
+#      icon      = "instagram" # icon name without the 'fa-'
+#      icon_pack = "fab"
+#      url       = "https://www.instagram.com/explore/tags/apero/"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/wolfnado"
-  [[params.social]]
-      icon      = "linkedin-in" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/lakikowolfe/"
+      url       = "https://twitter.com/wolfnado"
+#  [[params.social]]
+#      icon      = "impactstory" # icon name without the 'fa-'
+#      icon_pack = "ai"
+#      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+#  [[params.social]]
+#      icon      = "orcid" # icon name without the 'fa-'
+#      icon_pack = "ai"
+#      url       = "http://orcid.org/0000-0002-8082-1890"
+#  [[params.social]]
+#      icon      = "rss" # icon name without the 'fa-'
+#      icon_pack = "fas"
+#      url       = "/blog/index.xml"
 
 [taxonomies]
   category = "categories"
@@ -115,11 +131,26 @@ enableEmoji = true
     title = "Blog"
     url = "/blog/"
     weight = 2
+  [[menu.header]]
+    name = "Projects"
+    title = "Project Portfolio"
+    url = "/project/"
+    weight = 3
 #  [[menu.header]]
 #    name = "Talks"
 #    title = "Talks"
 #    url = "/talk/"
-#    weight = 3
+#    weight = 4
+#  [[menu.header]]
+#    name = "A collection"
+#    title = "A collection"
+#    url = "/collection/"
+#    weight = 5
+#  [[menu.header]]
+#    name = "Elements"
+#    title = "Element Page"
+#    url = "/elements/"
+#    weight = 6
     
   # Configure footer  
   [[menu.footer]]

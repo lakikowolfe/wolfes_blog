@@ -1,12 +1,12 @@
 ---
-author: Lauren Wolfe
-categories:
-date: "2021-09-08"
+author: L. Wolfe
+date: "2021-12-08"
 draft: false
 excerpt: \*tap\* \*tap\* is this thing on?
 layout: single
-subtitle:
+title: Hello, World
+subtitle: (and other cliche first blog post things)
+categories:
 tags:
-title: Hello, World (and other cliche first blog post things)
 ---
 

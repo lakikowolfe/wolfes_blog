@@ -2,7 +2,7 @@
 action_label: more about me ->
 action_link: /about
 action_type: text
-description: I'm Lauren and this is my website
+description: I'm Loren and this is my website.
 image_left: true
 images:
 - img/IMG_6737.jpg
