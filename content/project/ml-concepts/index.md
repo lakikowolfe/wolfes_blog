@@ -3,7 +3,7 @@ author: L. Wolfe
 categories:
 - machine learning
 - fredhutch.io
-date: "2019-07-01"
+date: "2021-12-08"
 draft: false
 excerpt: A no-code introduction to machine learning concepts course.
 layout: single
