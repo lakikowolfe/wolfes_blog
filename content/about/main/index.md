@@ -6,7 +6,10 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  I've worked at the bench, analyzed and visualized data for publication, created and disseminated technical training materials, and developed data sharing platforms, R packages, and data visualization tools for the biomedical research community. While it's been a meandering path, I've found that I love tackling new problems, thinking about complex systems, and delivering open-source resources and tooling that aid the research community.
+  
+  I've worked at the bench, analyzed and visualized data for publication, created and disseminated technical training materials, and developed data sharing platforms, R packages, and data visualization tools for the biomedical research community. 
+  
+  While it's been a meandering path, I've found that I love tackling new problems, thinking about complex systems, and delivering open-source resources and tooling that aid the research community.
   
   Outside of the technical minutiae, I am a proud af queer person, dog dad, and amateur houseplant enthusiast located in Seattle, WA. 
   

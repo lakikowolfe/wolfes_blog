@@ -7,6 +7,8 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Thanks for stopping by my site!
+Thanks for stopping by!
+
+My name is Lauren Wolfe, but you might also know me by Wolfe or LW.
 
 I'm a biologist turned software engineer who thrives at the intersection of medicine, data, and computation.
